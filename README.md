@@ -1,2 +1,2 @@
 # LinearRegression
-This project implements Linear Regression using only NumPy.
+This project implements Linear Regression with gradient descent using only NumPy.
